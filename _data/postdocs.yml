@@ -1,0 +1,34 @@
+- name: "Jon-JJ-Rickard"
+  photo: "https://res.cloudinary.com/hr6xih1x2/image/upload/v1486392931/Jon-JJ-Rickard_gymoj7.png"
+  email: "JJR340 @ bham.ac.uk"
+  alias: "Jon 'JJ' Rickard"
+  description: "Jon started his career at the Welding Institute testing bits of North Sea oil rigs to see if they would 
+  fall apart in the cold of the North Sea. Then in 1985 he joined the Microstructural Physics group at the Cavendish 
+  laboratory in Cambridge. There he worked on all types of electron microscopes, including VG scanning transmission 
+  electron microscopes. In 2014 he joined the group of Dr Goldberg Oppenheimer at the University of Birmingham to undertake 
+  a PhD course in Chemical Engineering. His research involves using Raman for point of care diagnostics."
+
+- name: "Yiwei-Sun"
+  photo: "https://res.cloudinary.com/hr6xih1x2/image/upload/v1515511710/ZepnrgtL_400x400_loqrpv.jpg"
+  email: "Y.Sun.8 @ bham.ac.uk"
+  alias: "Yiwei Sun"
+  description: "Dr. Yiwei Sun is a Postdoctoral Research Associate. He obtained BSc. in Physics at Fudan University, 
+  China in 2011 and PhD in Physics at Queen Mary University of London, UK in 2015. He then worked as a Postdoctoral 
+  Research Fellow at Zhejiang University, China before he joined the group of Dr Goldberg Oppenheimer at the University 
+  of Birmingham in 2018. Yiwei’s research expertise is on Raman spectroscopy (including advanced analysis on spectra), 
+  high pressure techniques (DACs) and ab initio calculations. His research field covers the mechanics of carbon nanotubes, 
+  graphene, graphite and other 2D layered materials. His current research focuses on the fabrication and characterisation of 
+  graphene-based nanostructures from viral building blocks and the design and setting-up of a portable Raman 3D-priting 
+  system."
+
+- name: "Michael-Clancy"
+  photo: "https://res.cloudinary.com/hr6xih1x2/image/upload/v1515160126/IMG_20171222_144413_uxjjvx.jpg"
+  email: "MXC933 @ alumni.bham.ac.uk"
+  alias: "Michael Clancy"
+  description: "Michael graduated from University of Birmingham, in 2012 with a BSc in Physics and Astrophysics. 
+  He then went on to join the Physical Sciences of Imaging in the Biomedical Sciences (PSIBS) Doctoral training centre, 
+  where he obtain a MSc and PhD. His doctoral research focused on the application and development of near infrared 
+  spectroscopy for detecting hypoxia in brain trauma patients. In 2016 he moved to the Medical Physics department at the 
+  Queen Elizabeth Hospital, focusing on clinical computing and imaging. He joined the group of Dr Goldberg Oppenheimer in 
+  2018 as a Research Fellow. His interests lie in bridging the gaps between disciplines, to facilitate the translation of 
+  imaging techniques from research into clinical use."

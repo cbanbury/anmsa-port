@@ -1,0 +1,22 @@
+{% for person in include.people %}
+    <div class="col s12">
+        <div class="row">
+            <div class="col m2 s6">
+                <img class="responsive-img" style="padding-top: 15px;" src="{{person.photo}}">
+            </div>
+            <div class="col m10 s12">
+                <div class="row">
+                    <div class="col s12">
+                        <h5>{{person.alias}}</h5>
+                    </div>
+                    <div class="col s12">
+                        <span>{{person.email}}</span>
+                    </div>
+                    <div class="col s12">
+                        <p>{{person.description}}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endfor %}
