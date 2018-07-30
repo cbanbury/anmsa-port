@@ -34,7 +34,7 @@
     - "[2].  A.O. Barel, M. Paye, H.I. Maibach, Handbook of Cosmetic Science and Technology, 3rd Edition."
 
 - title: Applications of Synthetic Biology
-  image: https://res.cloudinary.com/hr6xih1x2/image/upload/c_scale,w_467/v1494525376/raych_e5qqqr.png
+  image: /img/research/raych_e5qqqr.png
   description: "A DSTL funded project focusing on synthesizing novel 3D-nanomaterial structures utilizing a synthetic biology 
   approach to develop surfaces capable of optical and photonic characteristics. Synthetic biology mimics processes seen in 
   nature and exploiting them to yield real world applications of ‘smart materials’. One of the main areas of focus is on the 
@@ -42,7 +42,7 @@
   be visualized with the naked-eye."
 
 - title: Fabrication of Novel Nanostructures from Viral Building Blocks
-  image: https://res.cloudinary.com/hr6xih1x2/image/upload/v1494341119/Picture1_vqitst.png
+  image: /img/research/Picture1_vqitst.png
   description: "Human progress has been punctuated by the development of new materials that have revolutionised the way 
   we live. The transition from bronze to iron ages catalysed a sea change in agriculture while the advent of silicon 
   semiconductors brought on the new information age. In this project we aim to explore a whole range of new materials 
@@ -64,7 +64,7 @@
     - "[3]. Self-assembly approach to optical metamaterials. J.F. Galisteo, et al. J. Opt. A: Pure Appl. Opt. 2005, 7, S244–S254."
 
 - title: Point of Care Diagnostics for Traumatic Brain Injury
-  image: https://res.cloudinary.com/hr6xih1x2/image/upload/v1486392959/carl_xqbtjg.png
+  image: /img/research/carl_xqbtjg.png
   description: "Traumatic Brain Injury (TBI) is a leading cause of morbidity and mortality worldwide with neuro-disabilities 
   requiring long-term care. Timely TBI-diagnosis is at the heart of national guidelines, however, this is poorly supported by 
   urrent technologies which fall short of the PoC diagnostic needs [1]. This project aims to enable an approach based on 
@@ -77,7 +77,7 @@
     - "[3] Marro M. et al Journal of Biophotonics, 2014."
 
 - title: Controlling Collagen Formation in Wounds Using Smart Dressings
-  image: https://res.cloudinary.com/hr6xih1x2/image/upload/v1493911029/emma_s5ap5n.jpg
+  image: /img/research/emma_s5ap5n.jpg
   description: "Collagen networks determine the functional properties of most connective tissue. Through self-assembly 
   of procollagen, followed by covalent cross-links, a network of fibres is established in a hierarchical fashion, across 
   molecular and macro-scales. Characteristic features of this network influences cell growth and therefore tissue function. 
