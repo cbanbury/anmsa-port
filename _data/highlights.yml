@@ -1,0 +1,29 @@
+- image: /img/article-cover_fwoxpo.jpg
+  title: "Not Your Average Photography Contest"
+  link: "http://dailymail.co.uk/sciencetech/article-2218120/Cambridge-photography-competition-University-reveals-engineering-snaps.html"
+  description: "They look like paintings in a gallery but in fact these stunning photos show life-saving research in action."
+
+- image: "/img/blood-test_dwlkjg.png"
+  title: "Developing Breakthrough Blood Tests"
+  link: "http://www.bbc.co.uk/news/uk-england-birmingham-36915948"
+  description: "BBC news interview talking about a breakthrough blood test for serious brain injuries."
+
+- image: "/img/poc-diagnostics_gt5kdq.png"
+  title: "Point-of-Care Diagnostics"
+  link: "http://www.birmingham.ac.uk/schools/chemical-engineering/news/fellowship-awarded-to-develop-next-generation-healthcare-diagnostics.aspx"
+  description: "Five year Royal Academy of Engineering (RAEng) Fellowship developing technologies for the next generation of point-of-care diagnostics devices."
+
+- image: "/img/soapbox_y9oigx.png"
+  title: "Nanomaterials: No Small Matter"
+  link: "http://www.birmingham.ac.uk/university/colleges/eps/news/college/Nanotechnology-no-small-matter.aspx"
+  description: "2014 Soapbox Science event at London’s Southbank. Here Pola talks about the importance of her research and her passion for science as a career."
+
+- image: "/img/face-outline_oomop6.jpg"
+  title: "Female Faces"
+  link: "http://www.birmingham.ac.uk/university/colleges/eps/Female-faces-of-engineering.aspx"
+  description: "Female faces of engineering and physical sciences: celebrating Birmingham’s success."
+
+- image: "/img/soapbox_vboowr.jpg"
+  title: "Soapbox Science"
+  link: "http://soapboxscience.org/soapboxscience-2014-london/"
+  description: "In 2014, London’s Southbank was transformed again into a hub of scientific learning and discussion."

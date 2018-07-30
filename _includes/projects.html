@@ -1,0 +1,25 @@
+{% for project in include.projects %}
+    <div class="row">
+        <div class="col s12">
+            <div class="title-bar hide-on-small-only">
+                <h5 class="truncate">{{project.title}}</h5>
+            </div>
+            <div class="hide-on-med-and-up">
+                <h5>{{project.title}}</h5>
+            </div>
+        </div>
+        <div class="col m4 s12">
+            <img class="responsive-img z-depth-1" style="margin-top: 13px" src="{{project.image}}">
+        </div>
+        <div class="col m8 s12">
+            <p>{{project.description}}</p>
+            
+            {% for link in project.links %}
+                <small>{{ link }}</small><br>
+            {% endfor %}
+        </div>
+    </div>
+{% endfor %}
+
+
+
