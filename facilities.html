@@ -1,0 +1,38 @@
+---
+layout: default
+title: ANMSA | Facilities
+---
+
+<div class="row">
+    <div class="col s6 hide-on-small-only">
+        <img src="/img/collage_sopkvi.png" class="responsive-img">
+    </div>
+    <div class="col s12 m6">
+        <table class="bordered">
+            <tbody>
+                {% for facility in site.data.facilities %}
+                <tr>
+                    <td>
+                        {% if facility.link %}
+                        <!-- {{#if link}} -->
+                        <a href="{{facility.link}}">{{facility.title}}</a>
+                        {% else %}
+                            {{facility.title}}
+                        {% endif %}
+                        <!-- <a href="{{link}}"><h6></h6></a> -->
+                        <!-- {{#if list}} -->
+                        
+                        {% if facility.list %}
+                            <ul>
+                                {% for item in facility.list %}
+                                    <li>{{item}}</li>
+                                {% endfor %}
+                            </ul>
+                        {% endif %}
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
