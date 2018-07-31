@@ -1,0 +1,82 @@
+- name: "Chiara-Busa"
+  photo: "https://res.cloudinary.com/hr6xih1x2/image/upload/v1486392917/Chiara-Busa_jyabik.png"
+  alias: "Chiara Busa"
+  email: "CXB311 @ bham.ac.uk"
+  description: "Chiara started her studies at the University of Florence in 2005, graduating in 2009 with 
+  Bachelor in Chemistry. She then proceeded to a Master in Chemistry, focusing on supramolecular Chemistry, 
+  nano-systems and materials, graduating in 2012 with thesis on organic nanostructures for the next generation 
+  solar cells. In 2013 Chiara collaborated with Chalmers University of Technology in the field of Applied Physics. 
+  In 2014, Chiara has joined the group of Dr Goldberg Oppenheimer at the University of Birmingham to undertake her 
+  PhD course in Chemical Engineering. Her research interests are focused on DNA structured nano-materials, thin films 
+  formation, characterisation and patterning using novel and advanced materials for a range of optical and biomedical 
+  applications."
+
+- name: "George-Gotsis"
+  photo: "https://res.cloudinary.com/hr6xih1x2/image/upload/v1486392923/George-Gotsis_iutnoo.png"
+  alias: "George Gotsis"
+  email: "gotsis.georgios @ gmail.com"
+  description: "My studies in Chemical Engineering took place in the National and Technical University of Athens. 
+  There, working as an undergraduate researcher in the polymer technology lab, I completed my diploma thesis in the field of 
+  nanocomposites. The thesis was entitled ”Study of the structure and thermo-mechanical properties of polysiloxane 
+  nanocomposites”. The knowledge and experience that I gained during my research, concentrated on the characterization of 
+  thermal and mechanical properties of nano-composites. I have also become familiarized with the operating principles and 
+  the organology of many basic and very important methods of constructing and characterizing composite nanomaterials including, 
+  XRD, SEM, TGA, DSC, hardness and resistance testing etc. Currently I am focusing on the research in the fields of 
+  noanomaterials and nanostrcutures."
+
+- name: "Rachael-Cullinan"
+  photo: "https://res.cloudinary.com/hr6xih1x2/image/upload/v1486392943/Rachael-Cullinan_kk5b6l.png"
+  alias: "Rachael Cullinan"
+  email: "RXC502 @ student.bham.ac.uk"
+  description: "Rachael studied her undergraduate Chemistry Bsc at Nottingham Trent University, where I completed a number 
+  of placements focusing around the application of nanoparticles as drug delivery vectors. During 2013 I was awarded a Royal 
+  Society of Chemistry undergraduate research award for my research into ‘The effects of bio-conjugating nanoparticles with 
+  antibiotics to increase anti-bacterial activity’. Following my undergraduate degree, I chose to pursue a PhD in Chemical 
+  Engineering at the University of Birmingham within Dr Pola Oppenheimer’s research group to ‘Develop novel nano-metamaterials 
+  using synthetic biological building blocks’ utilizing techniques such as nano-lithography, AFM and TEM."
+
+- name: "Paolo-Passaretti"
+  photo: "https://res.cloudinary.com/hr6xih1x2/image/upload/v1486392936/Paolo-Passaretti_ky4aql.png"
+  alias: "Paolo Passaretti"
+  email: "PXP561 @ student.bham.ac.uk"
+  description: "Paolo started his academic career in 2008 at the Second University of Naples, where he graduated in 
+  Biotechnology in 2012. In the same year he enrolled for the two years Master Degree in Molecular and Cellular Biotechnology 
+  at the University of L’Aquila. There he spent one year working on his thesis in a laboratory of Molecular Biology where he 
+  focused on the development and characterization of a new 3D Graphene-based self-assembled composite material and also 
+  showing its reactivity towards some types of metals. In 2016 he joined the group of Dr Pola Goldberg Oppenheimer at the 
+  university of Birmingham as a PhD student in Chemical Engineering working on the development of novel nano-metamaterials 
+  from a range of viral building blocks."
+
+- name: "Carl-Banbury"
+  photo: "https://res.cloudinary.com/hr6xih1x2/image/upload/v1519408984/IMG_0294_cfowtj.jpg"
+  alias: "Carl Banbury"
+  email: "CXB756 @ bham.ac.uk"
+  description: "Carl graduated from the University of Birmingham, in 2012 with a masters in Physics with Nanotechnology with 
+  a Year in Computer Science (MSci). He then went on to develop scientific software applications for the oil and gas, 
+  pharmaceutical and FMCG industries. He has since worked as a technical lead at a number of start-ups, specialising in cloud 
+  servers, non-relational databases and continuous delivery. In 2015 he joined the group of Dr Goldberg Oppenheimer at the 
+  University of Birmingham, working within the EPSRC Physical Sciences for Health Centre. His research explores new methods 
+  for point of care diagnostics of traumatic brain injury."
+
+- name: "Emma-McCarthy"
+  photo: "https://res.cloudinary.com/hr6xih1x2/image/upload/v1486392920/Emma-McCarthy_uhfjcf.png"
+  alias: "Emma McCarthy"
+  email: "EMM502 @ student.bham.ac.uk"
+  description: "Emma started her academic career in 2012, graduating from the University of Warwick in 2015 with a BSc in 
+  Physics. Here, she focused on the use of Solid State NMR to look at the interactions of oxygen within catalytic processes. 
+  She has also completed a placement at Imanova, where she evaluated a new magnetic resonance technique for the use of 
+  locating lesions within the spinal cord on multiple sclerosis patients. In 2015 she began working within the EPSRC Physical 
+  Sciences for Health Centre, and through this joined the group of Dr Goldberg Oppenheimer at the University of Birmingham."
+
+
+
+
+
+
+
+
+
+
+
+
+

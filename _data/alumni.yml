@@ -1,0 +1,20 @@
+- name: "Megan-Cooke"
+  photo: "https://res.cloudinary.com/hr6xih1x2/image/upload/v1507195112/Meg_Cooke_photo_fkbrjg.jpg"
+  alias: "Megan Cooke"
+  email: "MEC110 @ bham.ac.uk"
+  description: "Meg was part of the group in 2015 as a masters student as part of the physical sciences for health CDT. 
+  She graduated from the University of Birmingham in 2014 with a degree in Material Science with Sport Science before 
+  joining the physical sciences for health centre for doctoral training. She joined the group for a masters project where 
+  she looked at the use of electro-hydrodynamic lithography to pattern surfaces to force the alignment of collagen fibres. 
+  She has since started a PhD developing an in vitro model of osteoarthritis under the supervision of Prof. Liam Grover and 
+  Dr. Simon Jones."
+
+- name: "Stephen Powell"
+  photo: "https://res.cloudinary.com/hr6xih1x2/image/upload/v1507200527/Stephen_wvqty0.png"
+  alias: "Stephen Powell"
+  email: "SJP614 @ student.bham.ac.uk"
+  description: "Stephen Powell started studying at the University of York in 2012. He graduated with an MPhys in 
+  Physics in 2016. His masters project was on nuclear physics and was entitled ‘Next generation detectors for the 
+  manipulation of PET isotopes’. In 2016 he started on the EPSRC Physical Sciences for Health programme, and started a 
+  mini-project in Dr Goldberg Oppenheimer’s group titled ‘Towards Targeted Detection and Analysis of Matrix Vesicles (MVS) 
+  as Biomarkers of Ageing and Disease’."

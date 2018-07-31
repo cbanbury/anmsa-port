@@ -1,0 +1,14 @@
+{% for item in include.publications %}
+    <div class="title-bar">
+        <h5>{{item.year}}</h5>
+    </div>
+    <div class="container">
+        <table class="bordered">
+            <tbody>
+                {% for publication in item.publications %}
+                    <tr><td>{{publication}}</td></tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+{% endfor %}
