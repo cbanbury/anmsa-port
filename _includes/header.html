@@ -1,10 +1,12 @@
-    <ul id="slide-out" class="side-nav fixed">
-          <li><a href="/" class="nav-home">Home</a></li>
-          <li><a href="/research" class="nav-home">Research</a></li>
-          <li><a href="/people" class="nav-home">People</a></li>
-          <li><a href="/publications" class="nav-home">Publications</a></li>
-          <li><a href="/facilities" class="nav-home">Facilities</a></li>
-          <li><a href="/contact" class="nav-home">Contact</a></li>
-          <li><a href="/gallery" class="nav-home">Gallery</a></li>
-        </ul>
-        <a href="#" data-activates="slide-out" class="button-collapse" style="color:#212121;"><i class="material-icons" style="font-size:32px">menu</i></a>
+{% assign current = page.url | downcase | split: '/' %}
+
+<ul id="slide-out" class="side-nav fixed">
+  <li class="{% if page.title == 'home' %}active{% endif %}"><a href="/" class="nav-home">Home</a></li>
+  <li class="{% if page.title == 'research' %}active{% endif %}"><a href="/research" class="nav-home">Research</a></li>
+  <li class="{% if page.title == 'people' %}active{% endif %}"><a href="/people" class="nav-home">People</a></li>
+  <li class="{% if page.title == 'publications' %}active{% endif %}"><a href="/publications" class="nav-home">Publications</a></li>
+  <li><a href="/facilities" class="nav-home">Facilities</a></li>
+  <li><a href="/contact" class="nav-home">Contact</a></li>
+  <li><a href="/gallery" class="nav-home">Gallery</a></li>
+</ul>
+<a href="#" data-activates="slide-out" class="button-collapse" style="color:#212121;"><i class="material-icons" style="font-size:32px">menu</i></a>
