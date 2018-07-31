@@ -1,5 +1,5 @@
 - name: "Jon-JJ-Rickard"
-  photo: "https://res.cloudinary.com/hr6xih1x2/image/upload/v1486392931/Jon-JJ-Rickard_gymoj7.png"
+  photo: "/img/people/Jon-JJ-Rickard_gymoj7.png"
   email: "JJR340 @ bham.ac.uk"
   alias: "Jon 'JJ' Rickard"
   description: "Jon started his career at the Welding Institute testing bits of North Sea oil rigs to see if they would 
@@ -9,7 +9,7 @@
   a PhD course in Chemical Engineering. His research involves using Raman for point of care diagnostics."
 
 - name: "Yiwei-Sun"
-  photo: "https://res.cloudinary.com/hr6xih1x2/image/upload/v1515511710/ZepnrgtL_400x400_loqrpv.jpg"
+  photo: "/img/people/ZepnrgtL_400x400_loqrpv.jpg"
   email: "Y.Sun.8 @ bham.ac.uk"
   alias: "Yiwei Sun"
   description: "Dr. Yiwei Sun is a Postdoctoral Research Associate. He obtained BSc. in Physics at Fudan University, 
@@ -22,7 +22,7 @@
   system."
 
 - name: "Michael-Clancy"
-  photo: "https://res.cloudinary.com/hr6xih1x2/image/upload/v1515160126/IMG_20171222_144413_uxjjvx.jpg"
+  photo: "/img/people/IMG_20171222_144413_uxjjvx.jpg"
   email: "MXC933 @ alumni.bham.ac.uk"
   alias: "Michael Clancy"
   description: "Michael graduated from University of Birmingham, in 2012 with a BSc in Physics and Astrophysics. 

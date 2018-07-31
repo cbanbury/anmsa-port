@@ -1,5 +1,5 @@
 - name: "Megan-Cooke"
-  photo: "https://res.cloudinary.com/hr6xih1x2/image/upload/v1507195112/Meg_Cooke_photo_fkbrjg.jpg"
+  photo: "/img/people/Meg_Cooke_photo_fkbrjg.jpg"
   alias: "Megan Cooke"
   email: "MEC110 @ bham.ac.uk"
   description: "Meg was part of the group in 2015 as a masters student as part of the physical sciences for health CDT. 
@@ -10,7 +10,7 @@
   Dr. Simon Jones."
 
 - name: "Stephen Powell"
-  photo: "https://res.cloudinary.com/hr6xih1x2/image/upload/v1507200527/Stephen_wvqty0.png"
+  photo: "/img/people/Stephen_wvqty0.png"
   alias: "Stephen Powell"
   email: "SJP614 @ student.bham.ac.uk"
   description: "Stephen Powell started studying at the University of York in 2012. He graduated with an MPhys in 

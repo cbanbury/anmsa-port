@@ -1,5 +1,5 @@
 - name: "Ana-Elena-Nistor"
-  photo: "https://res.cloudinary.com/hr6xih1x2/image/upload/v1515601020/finpic1_htxepe.jpg"
+  photo: "/img/people/finpic1_htxepe.jpg"
   alias: "Ana-Elena Nistor"
   email: "AEN452 @ student.bham.ac.uk"
   description: "Ana is currently in her final year of MEng Chemical Engineering at the University of Birmingham. During 
@@ -12,7 +12,7 @@
   from cosmetic emulsions on optimized human skin mimics."
 
 - name: "Marina-Valero"
-  photo: "https://res.cloudinary.com/hr6xih1x2/image/upload/v1516662382/Marina_axn5yo.jpg"
+  photo: "/img/people/Marina_axn5yo.jpg"
   alias: "Marina Valero"
   email: "MXV405 @ student.bham.ac.uk"
   description: "Marina is currently finishing her fourth year of the MEng Chemical and Energy Engineering course at the 
@@ -27,7 +27,7 @@
   academic years, she hopes to accomplish a ME in Biosystems & Food Engineering at University College Dublin."
 
 - name: "Max-Ooi"
-  photo: "https://res.cloudinary.com/hr6xih1x2/image/upload/v1517846905/26910322_2016273105319034_3284340524777412733_o_282_29_y3tbva.jpg"
+  photo: "/img/people/26910322_2016273105319034_3284340524777412733_o_282_29_y3tbva.jpg"
   alias: "Max Ooi"
   email: "MXO456 @ student.bham.ac.uk"
   description: "Max is currently in his fourth year of Meng Chemical engineering at the University of Birmingham. He is 
@@ -41,7 +41,7 @@
   applications."
 
 - name: "Cassidy-Ooi"
-  photo: "https://res.cloudinary.com/hr6xih1x2/image/upload/v1517847294/Untitled_c1scff.png"
+  photo: "/img/people/Untitled_c1scff.png"
   alias: "Cassidy Ooi"
   email: "CXO448 @ student.bham.ac.uk"
   description: "Cassidy Ooi is currently finishing his final year of Meng Chemcial Engineering at the University of 
@@ -56,7 +56,7 @@
   novel viral nano-structures with M13 bacteriophage for sensing and optical applications."
 
 - name: "Max-Mowbray"
-  photo: "https://res.cloudinary.com/hr6xih1x2/image/upload/v1515600759/IMG_0352_zltnlr.jpg"
+  photo: "/img/people/IMG_0352_zltnlr.jpg"
   alias: "Max Mowbray"
   email: "MRM564 @ student.bham.ac.uk"
   description: "Max is currently in his third year of study of Chemical Engineering (MEng), however he is keen to explore
