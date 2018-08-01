@@ -3,4 +3,4 @@ title: ANMSA
 sass:
     style: compressed
 
-baseurl: "/anmsa-port"
+baseurl: "/anmsaport"
