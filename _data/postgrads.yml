@@ -1,16 +1,3 @@
-- name: "Chiara-Busa"
-  photo: "/img/people/Chiara-Busa_jyabik.png"
-  alias: "Chiara Busa"
-  email: "CXB311 @ bham.ac.uk"
-  description: "Chiara started her studies at the University of Florence in 2005, graduating in 2009 with 
-  Bachelor in Chemistry. She then proceeded to a Master in Chemistry, focusing on supramolecular Chemistry, 
-  nano-systems and materials, graduating in 2012 with thesis on organic nanostructures for the next generation 
-  solar cells. In 2013 Chiara collaborated with Chalmers University of Technology in the field of Applied Physics. 
-  In 2014, Chiara has joined the group of Dr Goldberg Oppenheimer at the University of Birmingham to undertake her 
-  PhD course in Chemical Engineering. Her research interests are focused on DNA structured nano-materials, thin films 
-  formation, characterisation and patterning using novel and advanced materials for a range of optical and biomedical 
-  applications."
-
 - name: "George-Gotsis"
   photo: "/img/people/George-Gotsis_iutnoo.png"
   alias: "George Gotsis"
