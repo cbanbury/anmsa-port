@@ -1,3 +1,16 @@
+- name: "Yiwei-Sun"
+  photo: "/img/people/ZepnrgtL_400x400_loqrpv.jpg"
+  email: "yiwei.sun @ qmul.ac.uk"
+  alias: "Yiwei Sun"
+  description: "Dr. Yiwei Sun was a Postdoctoral Research Associate at ANMSA group during 2018 and he is currently a PDRA at Queen
+  Marry University of London. He obtained BSc. in Physics at Fudan University, China in 2011 and PhD in Physics at Queen Mary
+  University of London, UK in 2015. He then worked as a Postdoctoral Research Fellow at Zhejiang University, China before he joined the group of Dr Goldberg Oppenheimer at the University 
+  of Birmingham in 2018. Yiwei’s research expertise is on Raman spectroscopy (including advanced analysis on spectra), 
+  high pressure techniques (DACs) and ab initio calculations. His research field covers the mechanics of carbon nanotubes, 
+  graphene, graphite and other 2D layered materials. His current research focuses on the fabrication and characterisation of 
+  graphene-based nanostructures from viral building blocks and the design and setting-up of a portable Raman 3D-priting 
+  system."
+
 - name: "Megan-Cooke"
   photo: "/img/people/Meg_Cooke_photo_fkbrjg.jpg"
   alias: "Megan Cooke"
