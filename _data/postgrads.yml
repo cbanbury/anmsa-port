@@ -1,3 +1,4 @@
+
 - name: "George-Gotsis"
   photo: "/img/people/George-Gotsis_iutnoo.png"
   alias: "George Gotsis"
@@ -23,7 +24,8 @@
   using synthetic biological building blocks’ utilizing techniques such as nano-lithography, AFM and TEM."
 
 - name: "Paolo-Passaretti"
-  photo: "/img/people/Paolo-Passaretti_ky4aql.png  alias: "Paolo Passaretti"
+  photo: "/img/people/Paolo-Passaretti_ky4aql.png  
+  alias: "Paolo Passaretti"
   email: "PXP561 @ student.bham.ac.uk"
   description: "Paolo started his academic career in 2008 at the Second University of Naples, where he graduated in 
   Biotechnology in 2012. In the same year he enrolled for the two years Master Degree in Molecular and Cellular Biotechnology 
