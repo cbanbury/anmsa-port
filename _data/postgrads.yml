@@ -46,8 +46,7 @@
 
 - name: "Emma-McCarthy"
   photo: "/img/people/Emma-McCarthy_uhfjcf.png"
-  alias: "Emma McCarthy"
-  email: "EMM502 @ student.bham.ac.uk"
+  alias: "Emma McCarthy"-  email: "EMM502 @ student.bham.ac.uk"
   description: "Emma started her academic career in 2012, graduating from the University of Warwick in 2015 with a BSc in 
   Physics. Here, she focused on the use of Solid State NMR to look at the interactions of oxygen within catalytic processes. 
   She has also completed a placement at Imanova, where she evaluated a new magnetic resonance technique for the use of 
@@ -78,16 +77,16 @@
   Birmingham. His PhD project is looking at utilising CRISPR and the associated Cas nucleases as well as Raman spectroscopy as rapid 
   point-of-care diagnostic tools for Tuberculosis and its drug-resistant variants."
   
-- name: "Adam McGuinness"
+- name: "Adam-McGuinness"
   photo: "/img/people/Adam McGuinness.jpg"
   alias: "Adam McGuinness"
   email: "AJM728 @ student.bham.ac.uk"
   description: "Adam graduated from Aston University in 2010 with a BSc in Biomedical Science. He worked for 3 years as a Knowledge 
   Transfer Associate with Aston and Thea Pharmaceuticals, followed by 3 years at University of Birmingham as a research technician in 
-  the field of lung disease and immunology. Adam is currently part of the Physical Sciences for Health (Sci Phy) Doctoral training centre,
-  where he has obtained an MSc with Distinction and is in the first year of his PhD. His research is focused on the potential use of 
-  extracellular vesicles in the regeneration of bone, working with the Oppenheimer, Grover and Jones laboratories at the University of 
-  Birmingham and the Davies laboratory at Loughborough University."
+  the field of lung disease and immunology. Adam is currently part of the Physical Sciences for Health (Sci Phy) Doctoral training 
+  centre, where he has obtained an MSc with Distinction and is in the first year of his PhD. His research is focused on the potential 
+  use of extracellular vesicles in the regeneration of bone, working with the Oppenheimer, Grover and Jones laboratories at the 
+  University of Birmingham and the Davies laboratory at Loughborough University."
 
   
   
