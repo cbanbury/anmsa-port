@@ -24,7 +24,7 @@
   using synthetic biological building blocks’ utilizing techniques such as nano-lithography, AFM and TEM."
 
 - name: "Paolo-Passaretti"
-  photo: "/img/people/Paolo-Passaretti_ky4aql.png  
+  photo: "/img/people/Paolo-Passaretti_ky4aql.png" 
   alias: "Paolo Passaretti"
   email: "PXP561 @ student.bham.ac.uk"
   description: "Paolo started his academic career in 2008 at the Second University of Naples, where he graduated in 
@@ -79,3 +79,14 @@
   Warwick, Mike worked for Dyson and Public Health England before enrolling in his PhD in Chemical Engineering at the University of 
   Birmingham. His PhD project is looking at utilising CRISPR and the associated Cas nucleases as well as Raman spectroscopy as rapid 
   point-of-care diagnostic tools for Tuberculosis and its drug-resistant variants."
+
+- name: "Adam-McGuinness" 
+  photo: "/img/people/Adam McGuinness.jpg.jpeg" 
+  alias: "Adam McGuinness"  
+  email: "AJM728 @ student.bham.ac.uk"  
+  description: "Adam graduated from Aston University in 2010 with a BSc in Biomedical Science. He worked for 3 years as a Knowledge   
+  Transfer Associate with Aston and Thea Pharmaceuticals, followed by 3 years at University of Birmingham as a research technician in   
+  the field of lung disease and immunology. Adam is currently part of the Physical Sciences for Health (Sci Phy) Doctoral training  
+  centre, where he has obtained an MSc with Distinction and is in the first year of his PhD. His research is focused on the potential   
+  use of extracellular vesicles in the regeneration of bone, working with the Oppenheimer, Grover and Jones laboratories at the   
+  University of Birmingham and the Davies laboratory at Loughborough University."
