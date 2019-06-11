@@ -100,7 +100,6 @@
   group of Dr Goldberg Oppenheier and started working on his  research project which focused on the synthesis of 
   novel viral nano-structures with M13 bacteriophage for sensing and optical applications."
 
-
 - name: "Zoe Schofield"
   photo: "/img/people/Zoe Schfield.jpg"
   email: "zoeschofield1992 @ gmail.com"
@@ -108,3 +107,15 @@
   description: "Zoe was a PDRA in Dr Oppenheimer's group between 2018-2019. She worked on a BAE Systems funded project, exploring 
   the development and implementation of synthetic biology routes towards fabrication of novel nanomaterials and nanotechnologies. 
   Zoe is currently undertaking her further postdoc at the University of Warwick."
+
+- name: "Michael-Clancy"
+  photo: "/img/people/IMG_20171222_144413_uxjjvx.jpg"
+  email: "MXC933 @ alumni.bham.ac.uk"
+  alias: "Michael Clancy"
+  description: "Michael graduated from University of Birmingham, in 2012 with a BSc in Physics and Astrophysics. 
+  He then went on to join the Physical Sciences of Imaging in the Biomedical Sciences (PSIBS) Doctoral training centre, 
+  where he obtain a MSc and PhD. His doctoral research focused on the application and development of near infrared 
+  spectroscopy for detecting hypoxia in brain trauma patients. In 2016 he moved to the Medical Physics department at the 
+  Queen Elizabeth Hospital, focusing on clinical computing and imaging. He joined the group of Dr Goldberg Oppenheimer in 
+  2018 as a Research Fellow. His interests focussed in bridging the gaps between disciplines, to facilitate the translation of 
+  imaging techniques from research into clinical use."
