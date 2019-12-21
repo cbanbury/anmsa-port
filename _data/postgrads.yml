@@ -1,16 +1,14 @@
 
-- name: "George-Gotsis"
+- name: "Georgia-Harris"
   photo: "/img/people/George-Gotsis_iutnoo.png"
-  alias: "George Gotsis"
-  email: "gotsis.georgios @ gmail.com"
-  description: "My studies in Chemical Engineering took place in the National and Technical University of Athens. 
-  There, working as an undergraduate researcher in the polymer technology lab, I completed my diploma thesis in the field of 
-  nanocomposites. The thesis was entitled ”Study of the structure and thermo-mechanical properties of polysiloxane 
-  nanocomposites”. The knowledge and experience that I gained during my research, concentrated on the characterization of 
-  thermal and mechanical properties of nano-composites. I have also become familiarized with the operating principles and 
-  the organology of many basic and very important methods of constructing and characterizing composite nanomaterials including, 
-  XRD, SEM, TGA, DSC, hardness and resistance testing etc. Currently I am focusing on the research in the fields of 
-  noanomaterials and nanostrcutures."
+  alias: "Georgia Harris"
+  email: "GXH975 @ student.bham.ac.uk"
+  description: "Georgia graduated from the University of Exeter in 2019 with a BSc in Physics where her interest in biomedical
+  physics and cruelty-free research began. In the summer of 2018, she completed an internship at UCL where she developed a desktop
+  filament extruder system for 3D printers; aiming to produce filaments formed of recycled failed prints and support material. 
+  She also worked on printing a kidney phantom using gel-wax compatible with photoacoustic imaging to aid presurgical planning. 
+  She joined the ANMSA group under the LifETIME CDT and will continue previous work in developing a point-of-care device to diagnose
+  TBI with the hopes of including elements of tissue engineering and non-animal technologies."
 
 - name: "Rachael-Cullinan"
   photo: "/img/people/Rachael-Cullinan_kk5b6l.png"
