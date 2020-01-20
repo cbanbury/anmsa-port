@@ -1,3 +1,14 @@
+  
+- name: "Georgia-Harris"
+  photo: "/img/people/Georgia.JPG"
+  alias: "Georgia Harris"
+  email: "GXH975 @ student.bham.ac.uk"
+  description: "Georgia graduated from the University of Exeter in 2019 with a BSc in Physics where her interest in biomedical
+  physics and cruelty-free research began. In the summer of 2018, she completed an internship at UCL where she developed a desktop
+  filament extruder system for 3D printers; aiming to produce filaments formed of recycled failed prints and support material. 
+  She also worked on printing a kidney phantom using gel-wax compatible with photoacoustic imaging to aid presurgical planning. 
+  She joined the ANMSA group under the LifETIME CDT and will continue previous work in developing a point-of-care device to diagnose
+  TBI with the hopes of including elements of tissue engineering and non-animal technologies."
 
 - name: "Emma-Buchan"
   photo: "/img/people/Emma B.jpg"
@@ -10,17 +21,6 @@
   Doctoral training centre, where she obtained a further MSc and has progressed to her first year of PhD as part of Dr Pola Goldberg
   Oppenheimer’s group.  Her research focusses on the development of a novel lab-on-a-chip for the detection of extracellular vesicles 
   as key targets of ageing."
-  
-- name: "Georgia-Harris"
-  photo: "/img/people/Georgia.JPG"
-  alias: "Georgia Harris"
-  email: "GXH975 @ student.bham.ac.uk"
-  description: "Georgia graduated from the University of Exeter in 2019 with a BSc in Physics where her interest in biomedical
-  physics and cruelty-free research began. In the summer of 2018, she completed an internship at UCL where she developed a desktop
-  filament extruder system for 3D printers; aiming to produce filaments formed of recycled failed prints and support material. 
-  She also worked on printing a kidney phantom using gel-wax compatible with photoacoustic imaging to aid presurgical planning. 
-  She joined the ANMSA group under the LifETIME CDT and will continue previous work in developing a point-of-care device to diagnose
-  TBI with the hopes of including elements of tissue engineering and non-animal technologies."
 
 - name: "Rachael-Cullinan"
   photo: "/img/people/Rachael-Cullinan_kk5b6l.png"
