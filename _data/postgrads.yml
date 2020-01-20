@@ -1,4 +1,16 @@
 
+- name: "Emma-Buchan"
+  photo: "/img/people/Emma B.jpg"
+  alias: "Emma Buchan"
+  email: "ELB863 @ student.bham.ac.uk"
+  description: "Emma started her academic career in 2011, graduating with a BSc (Hons) in Biomedical Science from Robert Gordon
+  University in Aberdeen in 2015.  Following her undergraduate degree, Emma went on to obtain an MSc in Analytical Sciences with
+  an interest in DNA, proteomics and metabolomics.  Here she carried out research on the development of a DNA biosensor to determine
+  the concentration of plasmid DNA involved in bacterial antibiotic resistance.  In 2018, Emma joined the Physical Sciences for Health
+  Doctoral training centre, where she obtained a further MSc and has progressed to her first year of PhD as part of Dr Pola Goldberg
+  Oppenheimer’s group.  Her research focusses on the development of a novel lab-on-a-chip for the detection of extracellular vesicles 
+  as key targets of ageing."
+  
 - name: "Georgia-Harris"
   photo: "/img/people/Georgia.JPG"
   alias: "Georgia Harris"
