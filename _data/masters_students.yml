@@ -1,3 +1,14 @@
+- name: "William-Barrett"
+  photo: "/img/people/WB.jpg"
+  alias: "William Barrett"
+  email: "WXB576 @ student.bham.ac.uk"
+  description: "William is currently in his final year of studying MEng Chemical Engineering at the University of Birmingham.
+  In 2018 he began a year-long industrial placement as a Process Engineer with Solvay S.A.. William returned to the University 
+  of Birmingham to complete the last year of his undergraduate Masters study in 2019. His final year Research Project, within 
+  Dr Goldberg Oppenheimer's group, involves producing liposomes to assist in identifying lipid changes in the brain after Traumatic
+  Brain Injury through the use of Raman Spectroscopy."
+  
+
 - name: "Max-Mowbray"
   photo: "/img/people/IMG_0352_zltnlr.jpg"
   alias: "Max Mowbray"
