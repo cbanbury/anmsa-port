@@ -133,3 +133,40 @@
   XRD, SEM, TGA, DSC, hardness and resistance testing etc. In 2019 George has completed his PhD thesis at the ANMSA group under the 
   supervision of Dr Oppeneheimer in the fields of noanomaterials and nanostrcutures and developing new skin biomimics for improved
   retention."
+  
+  - name: "Max-Mowbray"
+  photo: "/img/people/IMG_0352_zltnlr.jpg"
+  alias: "Max Mowbray"
+  email: "MRM564 @ student.bham.ac.uk"
+  description: "Max spent time at ANMSA group during his third year of study of Chemical Engineering (MEng). He was keen to explore
+  the Biomedical applications of the course, with particular interest in the field of Neuroscience and Neurorehabilitation. 
+  This stems from work experience gained in a Neurosurgery department during the year prior to starting his Undergraduate 
+  degree, where he was fortunate to interact with patients and observe a number of operations. He has completed his 
+  Masters degree at ANMSA and started his PhD at Manchetser."
+  
+- name: "Jasmin-Sarwar"
+  photo: "/img/people/Jasmin_S.jpg"
+  alias: "Jasmin Sarwar"
+  email: "JJS855 @ student.bham.ac.uk"
+  description: "Jasmine Sarwar started her academic career in 2012, graduating with a BSc in Physics from the University 
+  of Salford in 2015. From there, she worked as an LED analyst at a cadmium free quantum dot development company designing 
+  and testing novel lighting systems until early 2017. In 2017, she undertook a new role as a medical imaging analyst working 
+  within clinical trials to quantitatively analyse MRI and CT images whilst also developing new methods of analysis and new 
+  protocols. She then gained a Prince2 practitioners qualification in early 2018 where she took on the lead project management
+  role of the imaging analysis in a large clinical trial. In October 2018, she then joined the University of Birmingham’s 
+  Physical sciences for health PhD programme which lead to a mini project with the group of Dr Goldberg Oppenheimer working 
+  on a project titled ‘Towards Targeted Detection and Analysis of Matrix Vesicles (MVS) as Biomarkers of Ageing and Disease’."
+
+
+- name: "Guy-Perkins"
+  photo: "/img/people/GuyPerkins_PNG.png"
+  alias: "Guy Perkins"
+  email: "GXP575 @ student.bham.ac.uk"
+  description: "Guy graduated from the University of Birmingham, in 2018 with a Bachelors in Physics. Over the summer of 2018, 
+  he completed an internship at University College London, where he segmented kidneys from MRI data, which were then 3D printed
+  using a novel gel-wax composite. These 3D printed phantoms were then used for photoacoustic imaging. He then started the
+  Physical Sciences for Health integrated MSc/PhD programme in September that year, completing his first of two mini projects
+  in the field of fNIRS (functional near infrared spectroscopy) for imaging mTBI (mild traumatic brain injury). His second mini 
+  project, 'Intracranial monitoring of severe traumatic brain injury via Raman Spectroscopy' seen him working in the ANMSA group,
+  using a commercial Renishaw Raman Spectroscopy device, to investigate lipids seen in sTBI (severe traumatic brain injury), as
+  well as the development of a portable probe capable of performing raman spectroscopy."
