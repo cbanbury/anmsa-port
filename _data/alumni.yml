@@ -1,3 +1,14 @@
+- name: "Carl-Banbury"
+  photo: "/img/people/IMG_0294_cfowtj.jpg"
+  alias: "Carl Banbury"
+  email: "CXB756 @ bham.ac.uk"
+  description: "Carl graduated from the University of Birmingham, in 2012 with a masters in Physics with Nanotechnology with 
+  a Year in Computer Science (MSci). He then went on to develop scientific software applications for the oil and gas, 
+  pharmaceutical and FMCG industries. He has since worked as a technical lead at a number of start-ups, specialising in cloud 
+  servers, non-relational databases and continuous delivery. In 2015 he joined the group of Dr Goldberg Oppenheimer at the 
+  University of Birmingham, working within the EPSRC Physical Sciences for Health Centre. His research explored new methods 
+  for point of care diagnostics of traumatic brain injury."
+
 - name: "Liam-Kelleher"
   photo: "/img/people/Liam Kelleher.jpg.JPG"
   email: "l.kelleher07 @ gmail.com"
